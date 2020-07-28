@@ -1,0 +1,6 @@
+data/val_idx.npy filter=lfs diff=lfs merge=lfs -text
+data/tp_source.npy filter=lfs diff=lfs merge=lfs -text
+data/mcn_msd_big_source.npy filter=lfs diff=lfs merge=lfs -text
+data/mcn_mtt_source.npy filter=lfs diff=lfs merge=lfs -text
+data/test_idx.npy filter=lfs diff=lfs merge=lfs -text
+data/train_idx.npy filter=lfs diff=lfs merge=lfs -text

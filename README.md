@@ -19,7 +19,7 @@ features in this repository. All files can be found in `data`.
    point to any database. Further, we provide artist names, album names, and track names. All rows in NumPy files 
    correspond to this ordering.
  * AllMusic Moods (`moods.txt`): Set of mood names used in this dataset. This is a subset of all moods available on
-   AllMusic, selected by frequency of annotations.
+   AllMusic, selected by frequency of annotations. The original IDs of these moods can be found in the official [Rovi website](http://prod-doc.rovicorp.com/mashery/index.php/MusicMoods).
  * Data Splits (`{train,val,test}_idx.npy`): NumPy arrays containing the indices of tracks used in the respective set.
 
 ### Features

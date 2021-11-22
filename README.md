@@ -11,7 +11,9 @@ The AllMusic Mood Subset
 ------------------------
 
 We provide a list of track ids from the Million Song Dataset (MSD), with train/val/test splits and a number of input
-features in this repository. All files can be found in `data`.
+features in this repository. All files can be found in `data`. 
+
+**Note:** The data files are stored on `git lfs`, but you can download them [here](https://drive.google.com/file/d/1ecA1N1Mp1mOpwbntfWNQIMMrwPBrYzvl/view?usp=sharing) if you get any quota errors.
 
 ### Meta-Data
 
